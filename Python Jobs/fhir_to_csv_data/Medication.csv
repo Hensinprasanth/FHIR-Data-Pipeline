@@ -1,0 +1,19 @@
+resourceType,id,code.coding.system,code.coding.code,code.coding.display,code.text,status
+Medication,27f86bca-7d0d-5e68-c430-4176ee8c1c32,http://www.nlm.nih.gov/research/umls/rxnorm,1719286,10 ML Furosemide 10 MG/ML Injection,10 ML Furosemide 10 MG/ML Injection,active
+Medication,6fb8c8c4-e1ba-54e6-0b4f-861d12f1870a,http://www.nlm.nih.gov/research/umls/rxnorm,1659131,piperacillin 2000 MG / tazobactam 250 MG Injection,piperacillin 2000 MG / tazobactam 250 MG Injection,active
+Medication,26f7aac7-d46f-aabf-626b-40dc54b18c9e,http://www.nlm.nih.gov/research/umls/rxnorm,1807510,150 ML vancomycin 5 MG/ML Injection,150 ML vancomycin 5 MG/ML Injection,active
+Medication,9b2b24d1-88ab-6e01-f8e1-27b53adc0738,http://www.nlm.nih.gov/research/umls/rxnorm,242969,4 ML norepinephrine 1 MG/ML Injection,4 ML norepinephrine 1 MG/ML Injection,active
+Medication,c8a77889-bc31-c208-38f6-92a7612303dc,http://www.nlm.nih.gov/research/umls/rxnorm,1719286,10 ML Furosemide 10 MG/ML Injection,10 ML Furosemide 10 MG/ML Injection,active
+Medication,4b65b61c-26c0-2097-ae9d-6c004773d26f,http://www.nlm.nih.gov/research/umls/rxnorm,1659131,piperacillin 2000 MG / tazobactam 250 MG Injection,piperacillin 2000 MG / tazobactam 250 MG Injection,active
+Medication,745a2471-214d-7e9d-74c6-9dc5010ae8cd,http://www.nlm.nih.gov/research/umls/rxnorm,1807510,150 ML vancomycin 5 MG/ML Injection,150 ML vancomycin 5 MG/ML Injection,active
+Medication,cc2f0f09-54a3-8e0a-be89-fe67ceb3d90b,http://www.nlm.nih.gov/research/umls/rxnorm,854235,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,active
+Medication,4895bee4-a697-e6c9-db3b-c434ee0eb4ad,http://www.nlm.nih.gov/research/umls/rxnorm,2123111,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,active
+Medication,b4162bb2-101d-808c-ba3c-f111dd30d0e6,http://www.nlm.nih.gov/research/umls/rxnorm,198440,Acetaminophen 500 MG Oral Tablet,Acetaminophen 500 MG Oral Tablet,active
+Medication,9d39834d-6e8d-7069-c47b-f6a35dd6cef5,http://www.nlm.nih.gov/research/umls/rxnorm,854252,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe,active
+Medication,750ea670-b4ba-4ea3-f648-b3b98758af71,http://www.nlm.nih.gov/research/umls/rxnorm,1659131,piperacillin 2000 MG / tazobactam 250 MG Injection,piperacillin 2000 MG / tazobactam 250 MG Injection,active
+Medication,c74c8422-37eb-02eb-b205-8416d93497d4,http://www.nlm.nih.gov/research/umls/rxnorm,1807510,150 ML vancomycin 5 MG/ML Injection,150 ML vancomycin 5 MG/ML Injection,active
+Medication,5314df31-6760-e4a2-5d70-f0ba634bfcd0,http://www.nlm.nih.gov/research/umls/rxnorm,242969,4 ML norepinephrine 1 MG/ML Injection,4 ML norepinephrine 1 MG/ML Injection,active
+Medication,e135950c-1a74-cfa3-d90b-24ae87f363b9,http://www.nlm.nih.gov/research/umls/rxnorm,854235,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe,active
+Medication,72518869-b39e-9f90-fe5f-c62b4a9918ab,http://www.nlm.nih.gov/research/umls/rxnorm,198440,Acetaminophen 500 MG Oral Tablet,Acetaminophen 500 MG Oral Tablet,active
+Medication,2bd7fa14-afa9-ee48-27a6-bb4c9b1742e5,http://www.nlm.nih.gov/research/umls/rxnorm,854252,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe,active
+Medication,ea2f7846-6b94-e8a0-6ada-b54959e22221,http://www.nlm.nih.gov/research/umls/rxnorm,1719286,10 ML Furosemide 10 MG/ML Injection,10 ML Furosemide 10 MG/ML Injection,active
